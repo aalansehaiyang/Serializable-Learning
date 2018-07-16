@@ -11,7 +11,7 @@
 * [软件安装](file/ProtocolBuffer-setup.md)
 * [代码示例](file/ProtocolBuffer-codeexample.md)
 * [为什么Protocol Buffer性能这么好？](https://blog.csdn.net/carson_ho/article/details/70568606)
-* [ Protocol Buffer 语法详解](https://blog.csdn.net/carson_ho/article/details/ 70267574)
+* [Protocol Buffer 语法详解](https://blog.csdn.net/carson_ho/article/details/70267574)
 
 #### jprotobuf
 
